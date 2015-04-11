@@ -1,0 +1,24 @@
+body {
+	font-family: 'Indie Flower', cursive;
+}
+.titleimg {
+	height: 378px;
+}
+
+.titleimg2 {
+	height: 378px;
+}
+.titleimg3 {
+	height: 378px;
+}
+.mainimg {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.imgcont {
+	background-color: purple;
+}
+.titlethumb {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
