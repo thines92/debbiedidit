@@ -35,3 +35,11 @@ width: 100%; /* use this, or not */
 margin: auto;
 height: 761px;
 }
+
+.navbar1 {
+	background-color: purple;
+}
+
+.navbar-brand {
+	color: red;
+}
